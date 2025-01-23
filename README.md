@@ -29,7 +29,7 @@ Here, we intend to comprehensively explore and analyze our dataset to gain insig
 
 We look at different visualizations from our dataset to gain the above understanding
 ## countplot of brands
-![]([](https://github.com/mwangikelvin201/GROUP7-Phase4/blob/bacd04822f2cfec71164e8e21de7fce784d7f4a8/image2.png)
+![](![image](https://github.com/mwangikelvin201/GROUP7-Phase4/blob/bacd04822f2cfec71164e8e21de7fce784d7f4a8/image2.png)
 
 ## sentiment distribution by brand 
 ![](https://github.com/mwangikelvin201/GROUP7-Phase4/blob/bacd04822f2cfec71164e8e21de7fce784d7f4a8/image3.png)
