@@ -27,3 +27,6 @@ Provide insights and recommendations based on the analysis results.
 # Data Understanding
 Here, we intend to comprehensively explore and analyze our dataset to gain insights into its structure, content, and quality.
 
+We look at different visualizations from our dataset to gain the above understanding
+
+![](https://github.com/mwangikelvin201/GROUP7-Phase4/blob/d6ad298b5014e5f0886c15ce64ea2ffe2e9a276e/download.png)
