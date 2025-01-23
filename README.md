@@ -28,6 +28,12 @@ Provide insights and recommendations based on the analysis results.
 Here, we intend to comprehensively explore and analyze our dataset to gain insights into its structure, content, and quality.
 
 We look at different visualizations from our dataset to gain the above understanding
+## countplot of brands
+![]([](https://github.com/mwangikelvin201/GROUP7-Phase4/blob/bacd04822f2cfec71164e8e21de7fce784d7f4a8/image2.png)
 
-![](![image](https://github.com/user-attachments/assets/1e927103-72d1-460d-b3d3-dc7fdde963b3)
-)
+## sentiment distribution by brand 
+![](https://github.com/mwangikelvin201/GROUP7-Phase4/blob/bacd04822f2cfec71164e8e21de7fce784d7f4a8/image3.png)
+
+
+
+
