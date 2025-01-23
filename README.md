@@ -29,4 +29,5 @@ Here, we intend to comprehensively explore and analyze our dataset to gain insig
 
 We look at different visualizations from our dataset to gain the above understanding
 
-![](https://github.com/mwangikelvin201/GROUP7-Phase4/blob/d6ad298b5014e5f0886c15ce64ea2ffe2e9a276e/download.png)
+![](![image](https://github.com/user-attachments/assets/1e927103-72d1-460d-b3d3-dc7fdde963b3)
+)
