@@ -78,7 +78,7 @@ The model has improved on accuracy score to the Logistic Regression model but th
 
 ### 3. Random Forest, count vectorizer,SMOTE
 
-With an accuracy of 97, Random Forest model has improved on the recall score having recall above 90 for all the sentiments compared to the Naive Bayes model and has better accuracy scores than both the Logistic Regression and Naive Bayes models. This is likely due to application on SMOTE balancing which has paid off a great deal.
+Random Forest model has improved on the recall score having higher recall for all the sentiments compared to the Naive Bayes model and has better accuracy scores than both the Logistic Regression and Naive Bayes models. This is likely due to application on SMOTE balancing which has paid off a great deal.
 
 # INSIGHTS
 This evaluation compared several models on a dataset containing tweets targeting two brands (Apple and Google) with three sentiment classes: positive, negative, and neutral. The dataset exhibited class imbalance, and most models struggled to differentiate between positive and neutral sentiments due to the similarity in the vocabulary used for these two classes. Above is a summary of the results and an explanation of the metrics used.
