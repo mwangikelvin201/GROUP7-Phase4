@@ -84,8 +84,8 @@ def predict_sentiment_interface(text):
 examples = [
     ["I absolutely love my new iPhone 14 Pro! The camera quality is mind-blowing! #Apple"],
     ["The new MacBook is okay, but it's a very expensive for what you get."],
-    ["Chrome keeps crashing on my laptop, very frustrating experience."],
-    ["Just got the new Pixel 7, it's okay I guess. Some features are nothing special, others need work."],
+    ["Chrome is a very nice browser with everything you  need ignore the haters"],
+    ["Pixel 7 review , it's okay I guess. nothing special, others need work.#Pixel"],
     ["This Android 13 update is terrible, my battery life is worse than ever. @Google fix this!"]
 ]
 
@@ -113,4 +113,4 @@ iface = gr.Interface(
 
 # Launch the app
 if __name__ == "__main__":
-    iface.launch()
+    iface.launch(sharer=True)
