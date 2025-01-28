@@ -146,23 +146,28 @@ Based on the analysis of the sentiment dataset and the performance of multiple m
 
 ## 1. Adopt the Best Performing Model
 The Voting Classifier is the most suitable for sentiment analysis due to its strong performance metrics:
-F1 Score: 
+### F1 Score: 
 0.6452 (indicating good balance between precision and recall).
-ROC AUC:
+
+### ROC AUC:
 0.7483 (showing strong ability to distinguish between sentiments).
 Consistency:
 Low standard deviation of 0.0043, ensuring reliable predictions across data samples.
-Accuracy: 
+### Accuracy: 
 0.6623, the highest among all models
 This model is recommended for deployment to analyze customer feedback related to Apple and Google products. Its ability to handle imbalanced data ensures that underrepresented sentiments, such as negative feedback, are not overlooked.
 
 ## 2.Address Challenges with Positive and Neutral Sentiments 
 
 The analysis revealed that all models struggled to differentiate between positive and neutral tweets. This is due to the overlap in vocabulary used in these sentiments. To address this:
-Actionable Insights:
+
+### Actionable Insights:
 Review common keywords in tweets classified as positive or neutral and refine them. For example, terms like "good" and "okay" may need additional context to ensure correct classification.
-Enhanced Data Collection:
+
+### Enhanced Data Collection:
 Better classification on sentiment labels can be achieved by collecting more diverse and detailed data. This can help in distinguishing subtle differences in sentiment expressions. For example, collecting tweets with stronger emotional language can improve model performance.
-Different Data Source:
+
+### Different Data Source:
 Consider using additional data sources beyond Twitter to capture a wider range of sentiments and expressions. This can provide a more comprehensive view of customer feedback and improve sentiment analysis accuracy.
+
 Deep learning approaches use advanced deep learning methods like (BERT, transformers) to improve performance or advanced vectorizers  like word2vec to improve pattern recognition in the dataset.
